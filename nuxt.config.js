@@ -47,8 +47,5 @@ export default {
     host: '0.0.0.0',
   },
 
-  loading: {
-    color: 'blue',
-    height: '5px',
-  },
+  loading: '~/components/LoadingBar.vue',
 }
