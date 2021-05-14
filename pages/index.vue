@@ -22,6 +22,9 @@
         </a>
       </div>
     </div>
+    <div>
+      <MountainsList />
+    </div>
   </div>
 </template>
 
