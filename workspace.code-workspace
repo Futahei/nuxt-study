@@ -1,10 +1,17 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "front"
+		},
+		{
+			"path": "backend"
 		}
 	],
 	"settings": {
-		"files.eol": "\n"
+		"files.eol": "\n",
+		"editor.formatOnSave": false,
+		"editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
 	}
 }
